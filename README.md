@@ -17,11 +17,13 @@ python库---matplotlib
 
 目前，项目只做了一个小demo。获取用户想读，在读，已读图书数量，并形成一张饼图，显示各自图书数量百分比，饼图如下：
 
-
+![demo](https://github.com/su-kaiyao/douban_data_visualization/blob/master/demo_imgs/douban_reader.png?raw=true)
 
 ### 项目预期效果
 
 希望能合理有效充分利用这些数据，画出一张张炫酷的图表，比如：
+
+![expect_result](https://github.com/su-kaiyao/douban_data_visualization/blob/master/demo_imgs/expected_result.png?raw=true)
 
 
 ### 项目难度
