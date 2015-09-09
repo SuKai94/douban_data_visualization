@@ -15,9 +15,19 @@ python库---matplotlib
 
 ### 项目进展
 
+#### 2015-09-07
+
 目前，项目只做了一个小demo。获取用户想读，在读，已读图书数量，并形成一张饼图，显示各自图书数量百分比，饼图如下：
 
 ![demo](https://github.com/su-kaiyao/douban_data_visualization/blob/master/demo_imgs/douban_reader.png?raw=true)
+
+#### 2015-09-09
+
+时间走势图-用户2013.01.01～2015.08.31每月已读图书数量走势图
+
+demo，[图拉鼎](http://www.douban.com/people/TualatriX/)的时间走势图
+
+![时间走势图demo](https://github.com/su-kaiyao/douban_data_visualization/raw/master/demo_imgs/month_infos.png)
 
 ### 项目预期效果
 
